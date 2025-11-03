@@ -15,13 +15,9 @@ public class GithubApplication {
 		 boolean isPresent=false;
 		float f = 10.3f;
         char ch = 'x';
-		boolean isSub=true;
-		
-
-		
-		
-		
-		SpringApplication.run(GithubApplication.class, args);
+		boolean isSub=true;	
+		char i = 'n''
+	SpringApplication.run(GithubApplication.class, args);
 	}
 
 }
