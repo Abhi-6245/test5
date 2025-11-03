@@ -16,11 +16,6 @@ public class GithubApplication {
 		float f = 10.3f;
         char ch = 'x';
 		boolean isSub=true;
-		
-
-		
-		
-		
 		SpringApplication.run(GithubApplication.class, args);
 	}
 
