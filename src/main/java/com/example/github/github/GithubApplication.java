@@ -7,6 +7,18 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GithubApplication {
 
 	public static void main(String[] args) {
+		String name = "mike"
+		int y =100;
+		boolean isPresent=false;
+		int y =200;
+		double z = 10.3;
+		 boolean isPresent=false;
+		float f = 10.3f;
+		
+
+		
+		
+		
 		SpringApplication.run(GithubApplication.class, args);
 	}
 
