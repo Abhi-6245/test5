@@ -14,6 +14,7 @@ public class GithubApplication {
 		double z = 10.3;
 		 boolean isPresent=false;
 		float f = 10.3f;
+		char ch = 'x';
 		
 
 		
