@@ -14,10 +14,10 @@ public class GithubApplication {
 		double z = 10.3;
 		 boolean isPresent=false;
 		float f = 10.3f;
-        char ch = 'x';
+     char ch = 'x';
 		boolean isSub=true;	
-		char i = 'n''
-	SpringApplication.run(GithubApplication.class, args);
+		SpringApplication.run(GithubApplication.class, args);
+
 	}
 
 }
