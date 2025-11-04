@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 error fixed
+=======
+india
+>>>>>>> Stashed changes 100%
 goa
 welcome
 Pankaj sir academy
